@@ -1,2 +1,2 @@
-# nbshop
+# nbshop from github
 lenovo notebook
